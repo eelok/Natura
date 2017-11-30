@@ -1,0 +1,14 @@
+{
+  "name": "natura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "kaka:sass": "node-sass scss/style.scss css/style.css -w"
+  },
+  "author": "Mariia",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
