@@ -1,6 +1,36 @@
 
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+
+
 @import "base/global";
-@import "modules/header";
-@import "modules/btn";
-@import "modules/animation";
-@import "modules/menu-icon";
+@import "base/animation";
+@import "base/grid";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/bg-video";
+@import "components/booking-box";
+@import "components/btn";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/form";
+@import "components/popup";
+@import "components/testimonial";
+
+@import "layout/footer";
+@import "layout/header";
+@import "layout/navigation";
+
+@import "pages/home";
+
+
+
+
+
+
+
+
